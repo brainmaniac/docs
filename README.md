@@ -4,7 +4,7 @@
 The bulk of Pipe Dream lives in pipe-dream/core. In addition, each language implementation has two repositories - one for logic, and one for package distribution
 
 ### Repositories 
-| repo  | summary |
+| Repo  | Summary |
 | ------------- | ------------- |
 | `pipe-dream/core`  | Interfaces, base classes, vue components and more  |
 | `pipe-dream/laravel-file-factory`  | Logic specific to Laravel  |
